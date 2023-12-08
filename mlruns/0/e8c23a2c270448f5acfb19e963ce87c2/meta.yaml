@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/OneDrive/Desktop/Cancer%20Detection/Cancer-Detection/mlruns/0/e8c23a2c270448f5acfb19e963ce87c2/artifacts
+end_time: 1702074833756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8c23a2c270448f5acfb19e963ce87c2
+run_name: placid-chimp-501
+run_uuid: e8c23a2c270448f5acfb19e963ce87c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702074824305
+status: 3
+tags: []
+user_id: HarshPriyam

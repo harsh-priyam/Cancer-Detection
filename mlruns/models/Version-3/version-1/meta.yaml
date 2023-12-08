@@ -1,0 +1,12 @@
+creation_timestamp: 1702075941541
+current_stage: None
+description: ''
+last_updated_timestamp: 1702075941541
+name: Version-3
+run_id: 101008427ac44a3dab2d911ef61ee135
+run_link: ''
+source: file:///C:/Users/aarav/OneDrive/Desktop/Cancer%20Detection/Cancer-Detection/mlruns/0/101008427ac44a3dab2d911ef61ee135/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

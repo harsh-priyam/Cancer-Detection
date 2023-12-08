@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/OneDrive/Desktop/Cancer%20Detection/Cancer-Detection/mlruns/0/391a7b65e0504ca98d969ffa16a3336a/artifacts
+end_time: 1702074567939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 391a7b65e0504ca98d969ffa16a3336a
+run_name: languid-pig-741
+run_uuid: 391a7b65e0504ca98d969ffa16a3336a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702074557692
+status: 3
+tags: []
+user_id: HarshPriyam
