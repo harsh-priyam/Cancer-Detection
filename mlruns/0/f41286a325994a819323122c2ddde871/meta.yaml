@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/OneDrive/Desktop/Cancer%20Detection/Cancer-Detection/mlruns/0/f41286a325994a819323122c2ddde871/artifacts
+end_time: 1702076278228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f41286a325994a819323122c2ddde871
+run_name: debonair-stoat-299
+run_uuid: f41286a325994a819323122c2ddde871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702076268632
+status: 3
+tags: []
+user_id: HarshPriyam
